@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/profile.php?id=61566909211854)
 
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/sufiyan___x998/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/sufiyan___x998)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abu-sufiyan-88343/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abu-sufiyan-8834323b6)
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@Sufiyan--x998)
 
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abusufiyan90980@gmail.com)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abusufiyan90980@gmail.com)
 
 # 💻 Tech Stack:
