@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abusufiyanops&theme=radical&no-frame=true&column=4" />
-</p>
+<img src="https://github-trophies.vercel.app/?username=abusufiyanops&theme=radical&no-frame=true" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
