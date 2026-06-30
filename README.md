@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
 </a>
 </p>
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abusufiyan90980@gmail.com)
 
 ## 🏆 GitHub Trophies
 
