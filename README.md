@@ -25,6 +25,10 @@
 </a>
 </p>
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-trophies.vercel.app/?username=abusufiyanops&theme=radical&no-frame=true" />
+
 
 ## 💻 Skills
 
