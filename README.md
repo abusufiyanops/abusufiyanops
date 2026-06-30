@@ -51,9 +51,7 @@
 
 ## 🚀 My Repository
 
-<a href="https://github.com/abusufiyanops">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abusufiyanops&repo=abusufiyanops&theme=radical"/>
-</a>
+🔗 [Visit my repositories](https://github.com/abusufiyanops?tab=repositories)
 
 
 ⭐ Thanks for visiting my profile!
