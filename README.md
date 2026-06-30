@@ -34,9 +34,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abusufiyanops&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abusufiyanops&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abusufiyanops&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abusufiyanops&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
