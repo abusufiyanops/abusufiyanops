@@ -34,7 +34,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abusufiyanops&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abusufiyanops&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abusufiyanops&theme=radical&no-frame=true&column=4" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
