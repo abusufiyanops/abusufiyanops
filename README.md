@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abusufiyanops&show_icons=true&theme=radical&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abusufiyanops&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
