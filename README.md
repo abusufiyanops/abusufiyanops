@@ -34,11 +34,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon)
 
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abusufiyanops&show_icons=true&theme=radical"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=abusufiyanops&show_icons=true&theme=radical&hide_border=true"/>
 
 ## 🔥 GitHub Streak
 
